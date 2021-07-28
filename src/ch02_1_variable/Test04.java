@@ -1,0 +1,13 @@
+package ch02_1_variable;
+
+public class Test04 {
+
+	public static void main(String[] args) {
+		
+		
+		
+		
+
+	}
+
+}
